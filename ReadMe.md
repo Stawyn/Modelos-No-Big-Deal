@@ -8,6 +8,18 @@ Este repositório contém um modelo de Visão Computacional treinado para detect
 
 O projeto foi desenvolvido e treinado utilizando a plataforma [Roboflow](https://roboflow.com).
 
+## 👀 Preview / Exemplos
+Abaixo estão exemplos do modelo em funcionamento. As imagens originais podem ser encontradas na pasta [`Exemplos`](./Exemplos) deste repositório.
+
+### Detecção em Jogo
+![Exemplo de Detecção 1](Exemplos/Screenshot_3.png)
+
+![Exemplo de Detecção 2](Exemplos/Screenshot_4.png)
+
+![Exemplo de Detecção 3](Exemplos/Screenshot_5.png)
+
+---
+
 ## 🎮 Sobre o Jogo
 **Nome:** No Big Deal  
 **Plataforma:** Roblox  
